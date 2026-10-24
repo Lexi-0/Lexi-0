@@ -3,4 +3,4 @@
 🌱 Currently learning: React, JavaScript, and UI/UX fundamentals
 📂 Projects: Check out my beginner-friendly web projects below
 🎯 Open to internship and junior frontend opportunities
-📬 Let’s connect: lxndretim@gmail.com | www.linkedin.com/in/alexander-etim-69a722377
+📬 Let’s connect: lxndretim@gmail.com | www.linkedin.com/in/etim-alex
